@@ -1,4 +1,4 @@
-﻿using Microsoft.AspNetCore.Mvc;
+using Microsoft.AspNetCore.Mvc;
 
 namespace DOTNET_8_APP.Controllers
 {
@@ -36,7 +36,7 @@ namespace DOTNET_8_APP.Controllers
         public string PlaceHolder()
         {
             Console.WriteLine("Placeholder endpoint called!");
-            return "<<<net-place-holder>>>";
+            return "1649ee90-5c57-4d2e-8e5c-e32760fef4c3";
         }
     }
 }
