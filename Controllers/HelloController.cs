@@ -36,7 +36,7 @@ namespace DOTNET_8_APP.Controllers
         public string PlaceHolder()
         {
             Console.WriteLine("Placeholder endpoint called!");
-            return "1d1d7d23-e236-4bdc-a353-7ed0a82973c7";
+            return "<<<net-place-holder>>>";
         }
     }
 }
